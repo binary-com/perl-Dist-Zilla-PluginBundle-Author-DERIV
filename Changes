@@ -1,6 +1,5 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
-
-0.001     2020-6-18 17:17:19+08:00 Asia/Kuala_Lumpur
     Initial version.
+
