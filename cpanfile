@@ -63,4 +63,7 @@ requires 'Dist::Zilla::Plugin::ArchiveRelease', 0;
 requires 'Dist::Zilla::Plugin::Git::Push', 0;
 requires 'Test::CPAN::Meta', 0;
 requires 'Perl::Version', 0;
-
+requires 'Devel::Cover', '>= 1.23';
+requires 'Devel::Cover::Report::Codecov', '>= 0.14';
+requires 'Test::CheckDeps', '>= 0.010';
+requires 'Test::NoTabs', 0;
